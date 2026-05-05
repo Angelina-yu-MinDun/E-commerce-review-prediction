@@ -29,9 +29,7 @@ How can an e-commerce platform use order, logistics, payment, seller, customer, 
 │   ├── Step.5_Modelling and Evaluation.ipynb
 │   └── Appendix_WordCloud.ipynb
 ├── planning/
-│   └── AIP_kickoff_mindmap.xmind
-├── DATA_AND_FILE_NOTES.md
-└── NOTION_PORTFOLIO_DRAFT.md
+  └── AIP_kickoff_mindmap.xmind
 ```
 
 The local portfolio copy also contains processed CSV files and renamed PDF report assets. These are intentionally excluded from the public repository to keep the repo lightweight and to avoid publishing large processed datasets or group submission materials without an explicit data-sharing decision.
