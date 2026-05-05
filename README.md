@@ -50,8 +50,6 @@ The cleaned dataset was imbalanced, with approximately 78% positive reviews and 
 └── README.md
 ```
 
-Large processed CSV files and the full academic report are intentionally excluded from this public repository. The presentation is included as a communication artifact from the academic project, while the README and notebooks provide the portfolio-facing technical narrative.
-
 ## Methodology
 
 1. **Data preparation**
