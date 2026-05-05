@@ -1,0 +1,15 @@
+# Local environments
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Large processed data
+DataSet(Processed)/*.csv
+
+# Local exports and OS files
+.DS_Store
+Thumbs.db
+
+# Keep reports optional; remove these lines if you decide to publish the PDFs
+*.pdf
