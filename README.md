@@ -2,7 +2,7 @@
 
 This project analyzes Brazilian e-commerce order, logistics, payment, geolocation, and review data to identify what drives customer satisfaction and to predict whether an order is likely to receive a positive or negative review.
 
-The original work was completed as a group analytics assignment. This portfolio version reframes the project as an end-to-end data analytics case study, focusing on problem framing, data preparation, feature engineering, model comparison, and business interpretation.
+This portfolio version reframes the project as an end-to-end data analytics case study, focusing on problem framing, data preparation, feature engineering, model comparison, and business interpretation.
 
 ## Business Question
 
@@ -29,10 +29,8 @@ How can an e-commerce platform use order, logistics, payment, seller, customer, 
 │   ├── Step.5_Modelling and Evaluation.ipynb
 │   └── Appendix_WordCloud.ipynb
 ├── planning/
-  └── AIP_kickoff_mindmap.xmind
+    └── AIP_kickoff_mindmap.pdf
 ```
-
-The local portfolio copy also contains processed CSV files and renamed PDF report assets. These are intentionally excluded from the public repository to keep the repo lightweight and to avoid publishing large processed datasets or group submission materials without an explicit data-sharing decision.
 
 ## Methodology
 
@@ -87,9 +85,3 @@ For an e-commerce platform, the model can support:
 - XGBoost
 - matplotlib / seaborn
 - Jupyter Notebook
-
-## Portfolio Notes
-
-This repository is prepared from a group assignment copy. The original academic files are preserved separately. Portfolio edits should be made only in this copied folder.
-
-Large CSV files are included in the local portfolio copy for reproducibility, but should normally be excluded from a public GitHub repository unless a data-sharing decision has been made.
