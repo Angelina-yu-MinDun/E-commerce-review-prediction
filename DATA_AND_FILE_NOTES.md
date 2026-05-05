@@ -25,27 +25,4 @@ This portfolio folder is a copy of the original academic group assignment. The o
 | `datasetfinal2.0.csv` | Cleaned merged dataset before final modelling features. |
 | `Feature.csv` | Feature-engineered modelling dataset. This file may need to be rehydrated from cloud storage before copying or uploading. |
 | `olist_geolocation_dataset_2.0.csv` | Processed zip-code geolocation dataset. |
-| `olist_order_reviews_dataset_translation.csv` | Reviews with English-translated comment message. |
-
-## Data Sharing Recommendation
-
-For a public GitHub portfolio, avoid committing large processed CSV files directly. Instead:
-
-- Keep notebooks and documentation public.
-- Add data files to `.gitignore`.
-- Mention the data source and processing steps in the README.
-- If needed, provide a small sample dataset under `sample_data/`.
-
-## Personal Portfolio Positioning
-
-Use this project to emphasize:
-
-- End-to-end analytics workflow.
-- Multi-table data modelling.
-- Feature engineering from operational timestamps and geolocation.
-- Handling imbalanced classification.
-- Translating model results into business actions.
-
-Suggested title:
-
-**Predicting Customer Review Satisfaction from Brazilian E-commerce Logistics Data**
+| `olist_order_reviews_dataset_translation.csv` | Reviews with English-translated comment message. |.
