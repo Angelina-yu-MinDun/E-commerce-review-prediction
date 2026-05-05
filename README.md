@@ -28,18 +28,13 @@ How can an e-commerce platform use order, logistics, payment, seller, customer, 
 │   ├── Step.4_Feature correlation.ipynb
 │   ├── Step.5_Modelling and Evaluation.ipynb
 │   └── Appendix_WordCloud.ipynb
-├── DataSet(Processed)/
-│   ├── datasetfinal2.0.csv
-│   ├── Feature.csv
-│   ├── olist_geolocation_dataset_2.0.csv
-│   └── olist_order_reviews_dataset_translation.csv
 ├── planning/
-│   └── Kickoff_mindmap.xmind
-├── brazilian_ecommerce_review_prediction_report.pdf
-├── brazilian_ecommerce_review_prediction_presentation.pdf
+│   └── AIP_kickoff_mindmap.xmind
 ├── DATA_AND_FILE_NOTES.md
 └── NOTION_PORTFOLIO_DRAFT.md
 ```
+
+The local portfolio copy also contains processed CSV files and renamed PDF report assets. These are intentionally excluded from the public repository to keep the repo lightweight and to avoid publishing large processed datasets or group submission materials without an explicit data-sharing decision.
 
 ## Methodology
 
@@ -94,3 +89,9 @@ For an e-commerce platform, the model can support:
 - XGBoost
 - matplotlib / seaborn
 - Jupyter Notebook
+
+## Portfolio Notes
+
+This repository is prepared from a group assignment copy. The original academic files are preserved separately. Portfolio edits should be made only in this copied folder.
+
+Large CSV files are included in the local portfolio copy for reproducibility, but should normally be excluded from a public GitHub repository unless a data-sharing decision has been made.
